@@ -1,0 +1,1734 @@
+[
+  {
+    "node_code": "BIL-1-01",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Bilangan 47 tersusun atas 4 puluhan dan 7 satuan. Dina menukar letak kedua angkanya sehingga terbentuk bilangan baru. Bilangan baru itu lebih besar berapa daripada 47?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "7"
+      },
+      {
+        "id": "b",
+        "text": "27"
+      },
+      {
+        "id": "c",
+        "text": "11"
+      },
+      {
+        "id": "d",
+        "text": "74"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "b"
+    },
+    "explanation": "Bilangan baru adalah 74. Selisihnya 74 − 47 = 27. Perhatikan bahwa nilai angka 7 berubah dari 7 menjadi 70, sedangkan nilai angka 4 berubah dari 40 menjadi 4.",
+    "hints": [
+      "Tuliskan bilangan baru setelah kedua angkanya ditukar.",
+      "Hitung selisih bilangan baru dan bilangan lama."
+    ],
+    "misconceptions": [
+      {
+        "label": "Hanya membandingkan angka satuan",
+        "option_id": "a"
+      },
+      {
+        "label": "Menjumlahkan kedua angka (4 + 7)",
+        "option_id": "c"
+      },
+      {
+        "label": "Menyebut bilangan barunya, bukan selisihnya",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-1-01",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 2,
+    "answer_type": "ordering",
+    "statement": "Urutkan bilangan berikut dari yang terkecil sampai yang terbesar.",
+    "instructions": "Susun kartu dari yang terkecil ke yang terbesar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "38"
+      },
+      {
+        "id": "b",
+        "text": "83"
+      },
+      {
+        "id": "c",
+        "text": "29"
+      },
+      {
+        "id": "d",
+        "text": "92"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 60,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "order": [
+        "c",
+        "a",
+        "b",
+        "d"
+      ]
+    },
+    "explanation": "Bandingkan angka puluhan terlebih dahulu: 29 (2 puluhan), 38 (3 puluhan), 83 (8 puluhan), 92 (9 puluhan). Urutannya 29, 38, 83, 92.",
+    "hints": [
+      "Bandingkan dahulu angka puluhannya.",
+      "Jika angka puluhannya sama, bandingkan angka satuannya."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-1-01",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 3,
+    "answer_type": "matching",
+    "statement": "Pasangkan setiap bilangan dengan nilai angka 6 di dalamnya.",
+    "instructions": "Pasangkan setiap butir di kolom kiri dengan satu butir di kolom kanan.",
+    "options": {
+      "left": [
+        {
+          "id": "l1",
+          "text": "Angka 6 pada bilangan 463"
+        },
+        {
+          "id": "l2",
+          "text": "Angka 6 pada bilangan 634"
+        },
+        {
+          "id": "l3",
+          "text": "Angka 6 pada bilangan 346"
+        }
+      ],
+      "right": [
+        {
+          "id": "r1",
+          "text": "Bernilai 6"
+        },
+        {
+          "id": "r2",
+          "text": "Bernilai 60"
+        },
+        {
+          "id": "r3",
+          "text": "Bernilai 600"
+        }
+      ]
+    },
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "pairs": [
+        {
+          "left": "l1",
+          "right": "r2"
+        },
+        {
+          "left": "l2",
+          "right": "r3"
+        },
+        {
+          "left": "l3",
+          "right": "r1"
+        }
+      ]
+    },
+    "explanation": "Pada 463, angka 6 berada di tempat puluhan sehingga bernilai 60. Pada 634, angka 6 berada di tempat ratusan sehingga bernilai 600. Pada 346, angka 6 berada di tempat satuan sehingga bernilai 6.",
+    "hints": [
+      "Tentukan dahulu angka 6 berada di tempat satuan, puluhan, atau ratusan.",
+      "Nilai suatu angka bergantung pada tempatnya."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-1-02",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "numeric",
+    "statement": "Sebuah bus berisi 28 penumpang. Di halte pertama, 9 penumpang turun dan 14 penumpang naik. Di halte kedua, 6 penumpang turun dan 5 penumpang naik. Berapa penumpang yang ada di dalam bus setelah halte kedua?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 32
+    },
+    "explanation": "Setelah halte pertama: 28 − 9 + 14 = 33 penumpang. Setelah halte kedua: 33 − 6 + 5 = 32 penumpang.",
+    "hints": [
+      "Hitung banyak penumpang setelah halte pertama.",
+      "Gunakan hasil itu sebagai banyak penumpang awal di halte kedua."
+    ],
+    "misconceptions": [
+      {
+        "label": "Berhenti menghitung setelah halte pertama",
+        "value": 33
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-1-02",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 2,
+    "answer_type": "true_false",
+    "statement": "Rudi menghitung 52 − 17 = 35. Untuk memeriksa hasilnya, ia menghitung 35 + 17 dan memperoleh 52. Apakah cara pemeriksaan Rudi tepat?",
+    "instructions": "Pilih Benar atau Salah.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 60,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": true
+    },
+    "explanation": "Tepat. Penjumlahan adalah kebalikan pengurangan. Jika 52 − 17 = 35, maka 35 + 17 harus kembali menjadi 52.",
+    "hints": [
+      "Ingat hubungan antara penjumlahan dan pengurangan.",
+      "Apakah hasil pemeriksaan kembali ke bilangan awal?"
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-1-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "visual",
+    "statement": "Tono berdiri di angka 10 pada garis bilangan. Ia melompat maju 3 kali, masing-masing sejauh 15 satuan. Tandai titik tempat Tono mendarat.",
+    "instructions": "Ketuk titik yang tepat pada garis bilangan.",
+    "options": [],
+    "visual_data": {
+      "kind": "number_line",
+      "min": 0,
+      "max": 100,
+      "step": 5
+    },
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 55
+    },
+    "explanation": "Tiga lompatan sejauh 15 satuan berarti 3 × 15 = 45 satuan. Tono mendarat di 10 + 45 = 55.",
+    "hints": [
+      "Hitung dahulu jarak seluruh lompatan.",
+      "Tambahkan jarak itu ke titik awal."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-1-03",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "true_false",
+    "statement": "Jumlah dua bilangan ganjil selalu genap. Ani mencoba 7 + 9 = 16 dan hasilnya genap. Apakah satu contoh itu sudah cukup untuk membuktikan bahwa pernyataan tersebut berlaku untuk semua bilangan ganjil?",
+    "instructions": "Pilih Benar atau Salah.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": false
+    },
+    "explanation": "Tidak cukup. Satu contoh hanya menunjukkan bahwa pernyataan itu benar untuk contoh tersebut. Untuk menyimpulkan secara umum, kita memerlukan alasan, misalnya: setiap bilangan ganjil terdiri atas pasangan-pasangan dan satu sisa; dua sisa itu bergabung menjadi satu pasangan baru.",
+    "hints": [
+      "Apakah satu contoh dapat mewakili semua kemungkinan?",
+      "Coba cari alasan yang berlaku untuk bilangan ganjil mana pun."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-1-04",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Perhatikan pola bilangan berikut: 3, 6, 11, 18, 27, ... Selisih antarsuku bertambah 2 pada setiap langkah. Berapa suku berikutnya?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 38
+    },
+    "explanation": "Selisih antarsuku adalah 3, 5, 7, 9, sehingga selisih berikutnya 11. Suku berikutnya adalah 27 + 11 = 38.",
+    "hints": [
+      "Hitung selisih antara dua suku yang berdekatan.",
+      "Selisihnya sendiri membentuk pola."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap selisih terakhir (9) berlaku tetap",
+        "value": 36
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-1-05",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Perhatikan kalimat matematika berikut: □ + 18 = 45 − 9. Bilangan manakah yang tepat mengisi □?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "18"
+      },
+      {
+        "id": "b",
+        "text": "27"
+      },
+      {
+        "id": "c",
+        "text": "36"
+      },
+      {
+        "id": "d",
+        "text": "54"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "a"
+    },
+    "explanation": "Ruas kanan bernilai 45 − 9 = 36. Maka □ + 18 = 36, sehingga □ = 36 − 18 = 18.",
+    "hints": [
+      "Hitung dahulu nilai ruas kanan.",
+      "Gunakan operasi kebalikan untuk mencari □."
+    ],
+    "misconceptions": [
+      {
+        "label": "Mengabaikan − 9 pada ruas kanan (45 − 18)",
+        "option_id": "b"
+      },
+      {
+        "label": "Menyebut nilai ruas kanan, bukan bilangan yang hilang",
+        "option_id": "c"
+      },
+      {
+        "label": "Menjumlahkan 45 dan 9",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-2-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Sebuah toko menjual pensil dalam kotak berisi 6 pensil. Bu Sari membeli 7 kotak, lalu membagikan semua pensil itu sama banyak kepada 14 anak. Berapa pensil yang diterima setiap anak?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "3"
+      },
+      {
+        "id": "b",
+        "text": "6"
+      },
+      {
+        "id": "c",
+        "text": "7"
+      },
+      {
+        "id": "d",
+        "text": "13"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "a"
+    },
+    "explanation": "Banyak pensil seluruhnya 7 × 6 = 42. Setiap anak menerima 42 ÷ 14 = 3 pensil.",
+    "hints": [
+      "Hitung dahulu banyak pensil seluruhnya.",
+      "Bagi sama banyak kepada 14 anak."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menyebut isi satu kotak",
+        "option_id": "b"
+      },
+      {
+        "label": "Menyebut banyak kotak",
+        "option_id": "c"
+      },
+      {
+        "label": "Menjumlahkan 7 dan 6",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-2-01",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 2,
+    "answer_type": "multi_choice",
+    "statement": "Manakah pernyataan yang benar tentang 4 × 6?",
+    "instructions": "Pilih semua jawaban yang benar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hasilnya sama dengan 6 × 4"
+      },
+      {
+        "id": "b",
+        "text": "Hasilnya sama dengan 4 + 6"
+      },
+      {
+        "id": "c",
+        "text": "Hasilnya sama dengan 6 + 6 + 6 + 6"
+      },
+      {
+        "id": "d",
+        "text": "Hasilnya sama dengan 20"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": [
+        "a",
+        "c"
+      ]
+    },
+    "explanation": "4 × 6 = 24. Perkalian bersifat dapat dipertukarkan sehingga 4 × 6 = 6 × 4. Selain itu, 4 × 6 berarti 4 kelompok yang masing-masing berisi 6, yaitu 6 + 6 + 6 + 6.",
+    "hints": [
+      "Ingat bahwa perkalian adalah penjumlahan berulang.",
+      "Apakah urutan faktor memengaruhi hasil kali?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Mencampuradukkan perkalian dengan penjumlahan",
+        "option_id": "b"
+      },
+      {
+        "label": "Salah menghitung banyak pengulangan (4 × 5)",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-2-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "single_choice",
+    "statement": "Adi membeli tiga barang seharga Rp19.800, Rp31.200, dan Rp48.900. Ia membulatkan setiap harga ke ribuan terdekat dan memperoleh jumlah Rp100.000. Uang Adi Rp100.000. Manakah kesimpulan yang paling tepat?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Uang Adi cukup karena jumlah sebenarnya Rp99.900."
+      },
+      {
+        "id": "b",
+        "text": "Uang Adi tidak cukup karena hasil pembulatan sama dengan Rp100.000."
+      },
+      {
+        "id": "c",
+        "text": "Uang Adi tidak cukup karena Rp48.900 hampir Rp50.000."
+      },
+      {
+        "id": "d",
+        "text": "Uang Adi cukup karena setiap harga boleh dibulatkan ke bawah."
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "a"
+    },
+    "explanation": "Jumlah harga sebenarnya adalah 19.800 + 31.200 + 48.900 = Rp99.900, yang kurang dari Rp100.000. Jadi, uang Adi cukup. Hasil pembulatan hanyalah perkiraan, bukan nilai pasti.",
+    "hints": [
+      "Hasil pembulatan adalah perkiraan, bukan nilai sebenarnya.",
+      "Hitung jumlah harga sebenarnya, lalu bandingkan dengan uang Adi."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap hasil pembulatan sebagai nilai pasti",
+        "option_id": "b"
+      },
+      {
+        "label": "Menolak berdasarkan satu harga yang dibulatkan ke atas",
+        "option_id": "c"
+      },
+      {
+        "label": "Menganggap pembulatan ke bawah selalu menjamin cukup",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-2-03",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "multi_choice",
+    "statement": "Manakah persamaan berikut yang bernilai benar?",
+    "instructions": "Pilih semua jawaban yang benar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "(8 + 5) + 2 = 8 + (5 + 2)"
+      },
+      {
+        "id": "b",
+        "text": "(8 − 5) − 2 = 8 − (5 − 2)"
+      },
+      {
+        "id": "c",
+        "text": "8 × (5 + 2) = 8 × 5 + 8 × 2"
+      },
+      {
+        "id": "d",
+        "text": "(12 ÷ 3) ÷ 2 = 12 ÷ (3 ÷ 2)"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": [
+        "a",
+        "c"
+      ]
+    },
+    "explanation": "(8 + 5) + 2 = 15 dan 8 + (5 + 2) = 15, sehingga persamaan (a) benar. 8 × (5 + 2) = 56 dan 8 × 5 + 8 × 2 = 56, sehingga (c) benar. Pengurangan dan pembagian tidak bersifat asosiatif: (8 − 5) − 2 = 1, tetapi 8 − (5 − 2) = 5; (12 ÷ 3) ÷ 2 = 2, tetapi 12 ÷ (3 ÷ 2) = 8.",
+    "hints": [
+      "Hitung kedua ruas pada setiap persamaan.",
+      "Ingat: tidak semua operasi dapat dikelompokkan ulang tanpa mengubah hasil."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap pengurangan bersifat asosiatif",
+        "option_id": "b"
+      },
+      {
+        "label": "Menganggap pembagian bersifat asosiatif",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "BIL-2-04",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Huruf P mewakili satu angka yang sama pada kedua bilangan. Jika P4 + 3P = 67, berapakah nilai P?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 3
+    },
+    "explanation": "P4 bernilai 10 × P + 4, sedangkan 3P bernilai 30 + P. Jumlahnya 11 × P + 34 = 67, sehingga 11 × P = 33 dan P = 3. Pemeriksaan: 34 + 33 = 67.",
+    "hints": [
+      "Pikirkan angka satuan: 4 + P harus berakhir pada angka 7.",
+      "Periksa jawabanmu dengan menjumlahkan kedua bilangan."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "BIL-2-05",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Sebuah rak buku memiliki 3 tingkat. Tingkat paling atas berisi 5 buku. Setiap tingkat di bawahnya berisi 4 buku lebih banyak daripada tingkat tepat di atasnya. Berapa buku yang ada di rak itu seluruhnya?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 27
+    },
+    "explanation": "Tingkat pertama 5 buku, tingkat kedua 5 + 4 = 9 buku, tingkat ketiga 9 + 4 = 13 buku. Seluruhnya 5 + 9 + 13 = 27 buku.",
+    "hints": [
+      "Tentukan banyak buku pada setiap tingkat satu per satu.",
+      "Jumlahkan banyak buku pada ketiga tingkat."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap setiap tingkat berisi 5 buku",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-1-01",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Di sebuah rak ada empat buku. Buku merah berada di sebelah kiri buku biru. Buku hijau berada di sebelah kanan buku biru. Buku kuning berada di antara buku merah dan buku biru. Dari kiri, buku apa yang berada pada urutan ketiga?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Merah"
+      },
+      {
+        "id": "b",
+        "text": "Kuning"
+      },
+      {
+        "id": "c",
+        "text": "Biru"
+      },
+      {
+        "id": "d",
+        "text": "Hijau"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "c"
+    },
+    "explanation": "Dari kiri ke kanan susunannya adalah merah, kuning, biru, hijau. Urutan ketiga adalah buku biru.",
+    "hints": [
+      "Buat sketsa empat posisi dari kiri ke kanan.",
+      "Tempatkan buku satu per satu sesuai petunjuk."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menempatkan buku pertama pada urutan ketiga",
+        "option_id": "a"
+      },
+      {
+        "label": "Mengabaikan makna kata “antara”",
+        "option_id": "b"
+      },
+      {
+        "label": "Mengira posisi paling kanan adalah urutan ketiga",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-1-02",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 3,
+    "answer_type": "multi_choice",
+    "statement": "Manakah pernyataan yang benar tentang persegi dan persegi panjang?",
+    "instructions": "Pilih semua jawaban yang benar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Persegi memiliki empat sisi yang sama panjang."
+      },
+      {
+        "id": "b",
+        "text": "Persegi panjang selalu memiliki empat sisi yang sama panjang."
+      },
+      {
+        "id": "c",
+        "text": "Persegi dan persegi panjang sama-sama memiliki empat sudut siku-siku."
+      },
+      {
+        "id": "d",
+        "text": "Persegi panjang memiliki tiga sisi."
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": [
+        "a",
+        "c"
+      ]
+    },
+    "explanation": "Persegi memiliki empat sisi yang sama panjang. Persegi dan persegi panjang sama-sama memiliki empat sudut siku-siku. Persegi panjang tidak selalu memiliki empat sisi sama panjang, dan bangun itu memiliki empat sisi, bukan tiga.",
+    "hints": [
+      "Bayangkan sisi dan sudut kedua bangun itu.",
+      "Apakah semua sisi persegi panjang selalu sama panjang?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Menyamakan persegi panjang dengan persegi",
+        "option_id": "b"
+      },
+      {
+        "label": "Mengira persegi panjang bersisi tiga",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-1-03",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "ordering",
+    "statement": "Urutkan panjang berikut dari yang terpendek sampai yang terpanjang.",
+    "instructions": "Susun kartu dari yang terpendek ke yang terpanjang.",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 meter"
+      },
+      {
+        "id": "b",
+        "text": "30 sentimeter"
+      },
+      {
+        "id": "c",
+        "text": "2 meter"
+      },
+      {
+        "id": "d",
+        "text": "50 sentimeter"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "order": [
+        "b",
+        "d",
+        "a",
+        "c"
+      ]
+    },
+    "explanation": "Ubah ke satuan yang sama. 1 meter = 100 sentimeter dan 2 meter = 200 sentimeter. Urutannya 30 sentimeter, 50 sentimeter, 1 meter, 2 meter.",
+    "hints": [
+      "Samakan dahulu satuan semua panjang.",
+      "1 meter sama dengan 100 sentimeter."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "GEO-2-01",
+    "grade": 3,
+    "cognitive_level": "L2",
+    "difficulty": 3,
+    "answer_type": "geometry_puzzle",
+    "statement": "Perhatikan bangun yang tersusun dari petak satuan pada kisi. Berapa luas bangun tersebut dalam satuan petak?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": {
+      "kind": "unit_grid",
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "measure": "area"
+    },
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 7
+    },
+    "explanation": "Bangun terdiri atas 3 petak pada baris pertama, 3 petak pada baris kedua, dan 1 petak pada baris ketiga. Luasnya 3 + 3 + 1 = 7 petak.",
+    "hints": [
+      "Hitung banyak petak pada setiap baris.",
+      "Luas sama dengan banyak petak yang tertutup."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "GEO-2-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "geometry_puzzle",
+    "statement": "Perhatikan bangun berbentuk huruf L yang tersusun dari petak satuan. Berapa keliling bangun tersebut dalam satuan panjang sisi petak?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": {
+      "kind": "unit_grid",
+      "rows": 4,
+      "cols": 4,
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "measure": "perimeter"
+    },
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 12
+    },
+    "explanation": "Bangun terdiri atas 5 petak. Keliling dihitung dari sisi petak yang berbatasan dengan bagian luar bangun, bukan dari banyak petak. Sisi luarnya berjumlah 12, sehingga kelilingnya 12 satuan.",
+    "hints": [
+      "Keliling adalah panjang garis di tepi bangun.",
+      "Jangan menghitung sisi yang berimpit dengan petak lain."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menyamakan keliling dengan banyak petak",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-2-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "single_choice",
+    "statement": "Sebuah persegi panjang berukuran 6 satuan × 4 satuan dipotong lurus menjadi dua persegi panjang yang sama besar. Garis potongnya sejajar sisi yang panjangnya 4 satuan. Berapa keliling salah satu potongan?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "10 satuan"
+      },
+      {
+        "id": "b",
+        "text": "14 satuan"
+      },
+      {
+        "id": "c",
+        "text": "16 satuan"
+      },
+      {
+        "id": "d",
+        "text": "20 satuan"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "b"
+    },
+    "explanation": "Garis potong membagi sisi 6 satuan menjadi dua bagian sama panjang, yaitu 3 satuan. Setiap potongan berukuran 3 × 4 satuan, sehingga kelilingnya 2 × (3 + 4) = 14 satuan.",
+    "hints": [
+      "Gambar persegi panjang itu, lalu gambar garis potongnya.",
+      "Tentukan ukuran satu potongan sebelum menghitung kelilingnya."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap keliling potongan setengah dari keliling semula",
+        "option_id": "a"
+      },
+      {
+        "label": "Menganggap potongan berbentuk persegi bersisi 4 satuan",
+        "option_id": "c"
+      },
+      {
+        "label": "Menganggap keliling tidak berubah setelah dipotong",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-2-03",
+    "grade": 3,
+    "cognitive_level": "L2",
+    "difficulty": 3,
+    "answer_type": "numeric",
+    "statement": "Sebuah balok tersusun dari kubus satuan. Panjangnya 3 kubus, lebarnya 2 kubus, dan tingginya 2 kubus. Berapa banyak kubus satuan yang menyusun balok itu seluruhnya?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 12
+    },
+    "explanation": "Satu lapisan berisi 3 × 2 = 6 kubus. Ada 2 lapisan, sehingga seluruhnya 6 × 2 = 12 kubus.",
+    "hints": [
+      "Hitung dahulu banyak kubus pada satu lapisan.",
+      "Kalikan dengan banyak lapisan."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menjumlahkan ukuran panjang, lebar, dan tinggi",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-2-04",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Sebuah persegi besar dibagi menjadi 4 persegi kecil yang sama ukuran, tersusun 2 baris dan 2 kolom. Berapa banyak persegi seluruhnya, termasuk persegi besar itu sendiri?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 5
+    },
+    "explanation": "Ada 4 persegi kecil dan 1 persegi besar yang terbentuk dari keempat persegi kecil tadi. Jadi, seluruhnya ada 4 + 1 = 5 persegi.",
+    "hints": [
+      "Hitung persegi kecil terlebih dahulu.",
+      "Apakah ada persegi yang tersusun dari beberapa persegi kecil?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Hanya menghitung persegi terkecil",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "node_code": "GEO-3-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 5,
+    "answer_type": "single_choice",
+    "statement": "Pada pukul 3.00, jarum pendek dan jarum panjang jam membentuk sudut siku-siku. Pada pukul berapakah kedua jarum itu juga membentuk sudut siku-siku?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pukul 6.00"
+      },
+      {
+        "id": "b",
+        "text": "Pukul 12.00"
+      },
+      {
+        "id": "c",
+        "text": "Pukul 9.00"
+      },
+      {
+        "id": "d",
+        "text": "Pukul 1.00"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "c"
+    },
+    "explanation": "Pada pukul 9.00, jarum panjang menunjuk angka 12 dan jarum pendek menunjuk angka 9. Keduanya terpisah seperempat putaran, yaitu sudut siku-siku. Pada pukul 6.00 keduanya membentuk garis lurus, dan pada pukul 12.00 keduanya berimpit.",
+    "hints": [
+      "Satu putaran penuh dibagi 12 angka pada jam.",
+      "Sudut siku-siku sama dengan seperempat putaran, atau 3 angka."
+    ],
+    "misconceptions": [
+      {
+        "label": "Mengira garis lurus adalah sudut siku-siku",
+        "option_id": "a"
+      },
+      {
+        "label": "Mengira jarum yang berimpit membentuk sudut siku-siku",
+        "option_id": "b"
+      },
+      {
+        "label": "Menebak tanpa menghitung jarak antarangka",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-1-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Empat dari lima bilangan berikut memiliki sifat yang sama: 4, 9, 16, 20, 25. Bilangan manakah yang tidak memiliki sifat itu?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "9"
+      },
+      {
+        "id": "c",
+        "text": "20"
+      },
+      {
+        "id": "d",
+        "text": "25"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "c"
+    },
+    "explanation": "Bilangan 4, 9, 16, dan 25 adalah hasil kali suatu bilangan dengan dirinya sendiri (2 × 2, 3 × 3, 4 × 4, 5 × 5). Bilangan 20 bukan hasil kali seperti itu.",
+    "hints": [
+      "Coba tuliskan setiap bilangan sebagai hasil kali.",
+      "Cari bilangan yang dapat dibentuk dari dua faktor yang sama."
+    ],
+    "misconceptions": [
+      {
+        "label": "Tidak mengenali 2 × 2 sebagai hasil kali bilangan yang sama",
+        "option_id": "a"
+      },
+      {
+        "label": "Tidak mengenali 3 × 3 sebagai hasil kali bilangan yang sama",
+        "option_id": "b"
+      },
+      {
+        "label": "Tidak mengenali 5 × 5 sebagai hasil kali bilangan yang sama",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-1-02",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "ordering",
+    "statement": "Ani lebih tinggi daripada Budi. Cici lebih pendek daripada Budi. Dedi lebih tinggi daripada Ani. Urutkan keempat anak itu dari yang terpendek sampai yang tertinggi.",
+    "instructions": "Susun nama dari yang terpendek ke yang tertinggi.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ani"
+      },
+      {
+        "id": "b",
+        "text": "Budi"
+      },
+      {
+        "id": "c",
+        "text": "Cici"
+      },
+      {
+        "id": "d",
+        "text": "Dedi"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "order": [
+        "c",
+        "b",
+        "a",
+        "d"
+      ]
+    },
+    "explanation": "Cici lebih pendek daripada Budi, Budi lebih pendek daripada Ani, dan Ani lebih pendek daripada Dedi. Urutannya Cici, Budi, Ani, Dedi.",
+    "hints": [
+      "Tuliskan setiap perbandingan sebagai urutan pendek ke tinggi.",
+      "Gabungkan perbandingan yang berbagi nama yang sama."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "KOM-2-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "logic_puzzle",
+    "statement": "Empat anak, yaitu Ani, Budi, Cici, dan Dedi, berbaris satu banjar dari posisi 1 (paling depan) sampai posisi 4 (paling belakang). Gunakan petunjuk untuk menentukan susunan barisan itu.",
+    "instructions": "Susun keempat anak sesuai petunjuk.",
+    "options": [],
+    "visual_data": {
+      "kind": "position_clues",
+      "slots": 4,
+      "entities": [
+        {
+          "id": "a",
+          "text": "Ani"
+        },
+        {
+          "id": "b",
+          "text": "Budi"
+        },
+        {
+          "id": "c",
+          "text": "Cici"
+        },
+        {
+          "id": "d",
+          "text": "Dedi"
+        }
+      ],
+      "clues": [
+        {
+          "type": "at",
+          "entity": "c",
+          "slot": 4
+        },
+        {
+          "type": "left_of",
+          "a": "b",
+          "b": "d"
+        },
+        {
+          "type": "next_to",
+          "a": "d",
+          "b": "a"
+        },
+        {
+          "type": "not_at",
+          "entity": "a",
+          "slot": 2
+        }
+      ]
+    },
+    "recommended_seconds": 240,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "arrangement": [
+        "b",
+        "d",
+        "a",
+        "c"
+      ]
+    },
+    "explanation": "Cici berada di posisi 4. Ani dan Dedi bersebelahan, Budi di depan Dedi, dan Ani tidak di posisi 2. Satu-satunya susunan yang memenuhi semua petunjuk adalah Budi, Dedi, Ani, Cici.",
+    "hints": [
+      "Mulailah dari petunjuk yang menyebut posisi pasti.",
+      "Uji setiap susunan terhadap semua petunjuk."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "KOM-2-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "numeric",
+    "statement": "Dina memiliki 3 baju (merah, biru, hijau) dan 2 rok (hitam, putih). Ia tidak mau memakai baju hijau dengan rok putih. Berapa pasangan baju dan rok yang dapat ia pilih?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 5
+    },
+    "explanation": "Tanpa syarat, ada 3 × 2 = 6 pasangan. Satu pasangan, yaitu baju hijau dengan rok putih, tidak diinginkan. Jadi, ada 6 − 1 = 5 pasangan.",
+    "hints": [
+      "Hitung dahulu semua pasangan tanpa syarat.",
+      "Kurangi pasangan yang tidak diinginkan."
+    ],
+    "misconceptions": [
+      {
+        "label": "Mengabaikan syarat yang diberikan",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-2-03",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "single_choice",
+    "statement": "Bagas melempar sebuah koin dua kali. Setiap lemparan menghasilkan angka (A) atau gambar (G). Manakah daftar yang memuat semua hasil yang mungkin, tanpa ada yang terlewat dan tanpa pengulangan?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "AA, AG, GA, GG"
+      },
+      {
+        "id": "b",
+        "text": "AA, AG, GG"
+      },
+      {
+        "id": "c",
+        "text": "AA, GG"
+      },
+      {
+        "id": "d",
+        "text": "AG, GA"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "a"
+    },
+    "explanation": "Lemparan pertama dapat A atau G. Untuk setiap hasil itu, lemparan kedua dapat A atau G. Jadi, hasilnya AA, AG, GA, dan GG. AG berbeda dengan GA karena urutan lemparannya berbeda.",
+    "hints": [
+      "Gambar diagram pohon: dua cabang untuk lemparan pertama.",
+      "Apakah AG dan GA terjadi dengan urutan yang sama?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Menganggap AG dan GA sama",
+        "option_id": "b"
+      },
+      {
+        "label": "Hanya memperhitungkan hasil yang kembar",
+        "option_id": "c"
+      },
+      {
+        "label": "Hanya memperhitungkan hasil yang berbeda",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-2-04",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "numeric",
+    "statement": "Berapa banyak bilangan dua angka yang dapat disusun dari angka 1, 2, dan 3 jika setiap angka hanya boleh dipakai satu kali pada satu bilangan?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 6
+    },
+    "explanation": "Bilangan yang dapat disusun adalah 12, 13, 21, 23, 31, dan 32. Jadi, ada 6 bilangan. Cara lain: ada 3 pilihan untuk angka puluhan dan 2 pilihan untuk angka satuan, sehingga 3 × 2 = 6.",
+    "hints": [
+      "Tetapkan satu angka puluhan, lalu daftar pilihan angka satuannya.",
+      "Jangan lupa bahwa 12 dan 21 adalah bilangan yang berbeda."
+    ],
+    "misconceptions": [
+      {
+        "label": "Membolehkan angka yang sama dipakai dua kali",
+        "value": 9
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-2-04",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "possibilities",
+    "statement": "Dari angka 1, 2, dan 3 (setiap angka dipakai satu kali pada satu bilangan) dibentuk bilangan dua angka. Manakah bilangan yang dapat dibentuk dan lebih besar daripada 25?",
+    "instructions": "Pilih semua jawaban yang benar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "12"
+      },
+      {
+        "id": "b",
+        "text": "23"
+      },
+      {
+        "id": "c",
+        "text": "31"
+      },
+      {
+        "id": "d",
+        "text": "32"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": [
+        "c",
+        "d"
+      ]
+    },
+    "explanation": "Bilangan yang dapat dibentuk adalah 12, 13, 21, 23, 31, dan 32. Di antara pilihan, hanya 31 dan 32 yang lebih besar daripada 25. Bilangan 12 dan 23 dapat dibentuk, tetapi tidak lebih besar daripada 25.",
+    "hints": [
+      "Periksa apakah setiap pilihan dapat dibentuk dari angka 1, 2, dan 3.",
+      "Bandingkan setiap pilihan dengan 25."
+    ],
+    "misconceptions": [
+      {
+        "label": "Tidak membandingkan dengan 25",
+        "option_id": "a"
+      },
+      {
+        "label": "Mengira 23 lebih besar daripada 25",
+        "option_id": "b"
+      }
+    ]
+  },
+  {
+    "node_code": "KOM-3-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 5,
+    "answer_type": "single_choice",
+    "statement": "Di dalam kantong ada kaus kaki berwarna merah, biru, dan putih, masing-masing 5 buah. Kaus kaki diambil tanpa melihat. Paling sedikit berapa kaus kaki yang harus diambil agar pasti ada sepasang yang warnanya sama?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "2"
+      },
+      {
+        "id": "b",
+        "text": "3"
+      },
+      {
+        "id": "c",
+        "text": "4"
+      },
+      {
+        "id": "d",
+        "text": "6"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "c"
+    },
+    "explanation": "Dalam keadaan terburuk, tiga kaus kaki pertama berbeda warna (merah, biru, putih). Kaus kaki keempat pasti sewarna dengan salah satunya. Jadi, paling sedikit 4 kaus kaki.",
+    "hints": [
+      "Bayangkan keadaan paling sial: semua yang diambil berbeda warna.",
+      "Ada berapa warna yang berbeda?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Mengira dua kaus kaki pasti sewarna",
+        "option_id": "a"
+      },
+      {
+        "label": "Menyamakan jumlah pengambilan dengan jumlah warna",
+        "option_id": "b"
+      },
+      {
+        "label": "Mengira harus mengambil dua kali jumlah warna",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-1-01",
+    "grade": 2,
+    "cognitive_level": "L2",
+    "difficulty": 2,
+    "answer_type": "single_choice",
+    "statement": "Tabel hasil panen kebun sekolah: apel 8 buah, jeruk 5 buah, mangga 12 buah, dan pisang 7 buah. Berapa selisih antara hasil panen terbanyak dan hasil panen tersedikit?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "7 buah"
+      },
+      {
+        "id": "b",
+        "text": "5 buah"
+      },
+      {
+        "id": "c",
+        "text": "12 buah"
+      },
+      {
+        "id": "d",
+        "text": "32 buah"
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 90,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "a"
+    },
+    "explanation": "Hasil panen terbanyak adalah mangga (12 buah) dan tersedikit adalah jeruk (5 buah). Selisihnya 12 − 5 = 7 buah.",
+    "hints": [
+      "Tentukan dahulu jenis buah terbanyak dan tersedikit.",
+      "Selisih diperoleh dengan pengurangan."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menyebut hasil terkecil",
+        "option_id": "b"
+      },
+      {
+        "label": "Menyebut hasil terbesar",
+        "option_id": "c"
+      },
+      {
+        "label": "Menjumlahkan semua hasil panen",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-1-02",
+    "grade": 2,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "numeric",
+    "statement": "Pada sebuah piktogram, satu gambar buku mewakili 4 buku. Kelas 2A memiliki 6 gambar utuh dan 1 gambar setengah. Berapa buku yang dimiliki Kelas 2A?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 26
+    },
+    "explanation": "Enam gambar utuh mewakili 6 × 4 = 24 buku. Satu gambar setengah mewakili 4 ÷ 2 = 2 buku. Jadi, seluruhnya 24 + 2 = 26 buku.",
+    "hints": [
+      "Perhatikan nilai yang diwakili satu gambar.",
+      "Gambar setengah mewakili setengah dari nilai itu."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menghitung banyak gambar tanpa memperhatikan nilainya",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-2-01",
+    "grade": 3,
+    "cognitive_level": "L2",
+    "difficulty": 3,
+    "answer_type": "multi_choice",
+    "statement": "Diagram batang menunjukkan banyak siswa yang membawa bekal: Senin 14 siswa, Selasa 9 siswa, Rabu 17 siswa, dan Kamis 9 siswa. Manakah pernyataan yang sesuai dengan data itu?",
+    "instructions": "Pilih semua jawaban yang benar.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rabu memiliki jumlah siswa paling banyak."
+      },
+      {
+        "id": "b",
+        "text": "Jumlah siswa pada hari Selasa dan Kamis sama."
+      },
+      {
+        "id": "c",
+        "text": "Hari Senin memiliki siswa lebih sedikit daripada hari Selasa."
+      },
+      {
+        "id": "d",
+        "text": "Jumlah siswa hari Senin dan Selasa sama dengan jumlah siswa hari Rabu."
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": [
+        "a",
+        "b"
+      ]
+    },
+    "explanation": "Rabu memiliki nilai terbesar (17), dan Selasa serta Kamis sama-sama 9. Senin (14) lebih banyak daripada Selasa (9). Jumlah Senin dan Selasa adalah 23, bukan 17.",
+    "hints": [
+      "Tuliskan nilai setiap hari, lalu bandingkan.",
+      "Periksa setiap pernyataan satu per satu."
+    ],
+    "misconceptions": [
+      {
+        "label": "Salah membaca tinggi batang",
+        "option_id": "c"
+      },
+      {
+        "label": "Menyimpulkan tanpa menjumlahkan lebih dahulu",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-2-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 3,
+    "answer_type": "visual",
+    "statement": "Seorang siswa menggambar diagram batang pada kisi berukuran 4 baris × 3 kolom. Baris paling bawah adalah dasar diagram. Hitamkan petak untuk menyatakan data: kolom 1 bernilai 3, kolom 2 bernilai 1, dan kolom 3 bernilai 2.",
+    "instructions": "Ketuk petak yang harus dihitamkan.",
+    "options": [],
+    "visual_data": {
+      "kind": "grid_select",
+      "rows": 4,
+      "cols": 3
+    },
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "cells": [
+        [
+          3,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ]
+      ]
+    },
+    "explanation": "Setiap batang dimulai dari baris paling bawah. Kolom 1 menghitamkan 3 petak, kolom 2 menghitamkan 1 petak, dan kolom 3 menghitamkan 2 petak.",
+    "hints": [
+      "Setiap batang dimulai dari dasar diagram.",
+      "Tinggi batang sama dengan banyak petak yang dihitamkan."
+    ],
+    "misconceptions": []
+  },
+  {
+    "node_code": "DAT-2-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "single_choice",
+    "statement": "Kelas 3A memiliki 20 siswa dan 10 siswa di antaranya gemar membaca. Kelas 3B memiliki 30 siswa dan 15 siswa di antaranya gemar membaca. Pernyataan manakah yang paling tepat?",
+    "instructions": "Pilih satu jawaban yang paling tepat.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kelas 3B lebih gemar membaca karena 15 lebih besar daripada 10."
+      },
+      {
+        "id": "b",
+        "text": "Kelas 3A lebih gemar membaca karena kelasnya lebih kecil."
+      },
+      {
+        "id": "c",
+        "text": "Kedua kelas sama gemarnya karena di setiap kelas tepat setengah siswanya gemar membaca."
+      },
+      {
+        "id": "d",
+        "text": "Kedua kelas tidak dapat dibandingkan karena jumlah siswanya berbeda."
+      }
+    ],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "correct": "c"
+    },
+    "explanation": "Di kedua kelas, tepat setengah dari seluruh siswa gemar membaca. Perbandingan yang adil memperhatikan jumlah siswa di setiap kelas, bukan hanya banyak siswa yang gemar membaca.",
+    "hints": [
+      "Bandingkan banyak siswa yang gemar membaca dengan jumlah seluruh siswa di kelasnya.",
+      "Apakah jumlah yang lebih besar selalu berarti lebih gemar?"
+    ],
+    "misconceptions": [
+      {
+        "label": "Membandingkan jumlah tanpa memperhatikan banyak siswa tiap kelas",
+        "option_id": "a"
+      },
+      {
+        "label": "Menganggap kelas yang lebih kecil otomatis lebih unggul",
+        "option_id": "b"
+      },
+      {
+        "label": "Menganggap data tidak dapat dibandingkan jika jumlah berbeda",
+        "option_id": "d"
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-2-03",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Tiga kantong berisi 14, 9, dan 7 kelereng. Semua kelereng akan dibagi merata sehingga setiap kantong berisi sama banyak. Berapa kelereng yang harus dipindahkan keluar dari kantong pertama?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 150,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 4
+    },
+    "explanation": "Jumlah seluruh kelereng 14 + 9 + 7 = 30. Setelah dibagi merata, setiap kantong berisi 30 ÷ 3 = 10 kelereng. Kantong pertama berisi 14, sehingga harus mengeluarkan 14 − 10 = 4 kelereng.",
+    "hints": [
+      "Hitung jumlah seluruh kelereng, lalu bagi dengan 3.",
+      "Bandingkan isi kantong pertama dengan jumlah akhir tiap kantong."
+    ],
+    "misconceptions": [
+      {
+        "label": "Menjawab banyak kelereng tiap kantong setelah dibagi merata",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-3-01",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 4,
+    "answer_type": "numeric",
+    "statement": "Empat tumpukan kubus tingginya 2, 6, 3, dan 9 kubus. Kubus dipindahkan antartumpukan sampai keempat tumpukan sama tinggi. Berapa tinggi setiap tumpukan sekarang?",
+    "instructions": "Tulis jawabanmu berupa angka.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": 5
+    },
+    "explanation": "Jumlah seluruh kubus 2 + 6 + 3 + 9 = 20. Setelah diratakan, setiap tumpukan setinggi 20 ÷ 4 = 5 kubus.",
+    "hints": [
+      "Pemerataan tidak mengubah jumlah seluruh kubus.",
+      "Bagi jumlah seluruh kubus dengan banyak tumpukan."
+    ],
+    "misconceptions": [
+      {
+        "label": "Hanya menjumlahkan tinggi semua tumpukan",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "node_code": "DAT-3-02",
+    "grade": 3,
+    "cognitive_level": "L3",
+    "difficulty": 5,
+    "answer_type": "true_false",
+    "statement": "Mira mencatat bahwa setiap kali ia membawa payung, hari itu hujan (3 kali dari 3 kali). Ia menyimpulkan bahwa besok pasti hujan karena pagi ini ia membawa payung. Apakah kesimpulan Mira didukung oleh datanya?",
+    "instructions": "Pilih Benar atau Salah.",
+    "options": [],
+    "visual_data": null,
+    "recommended_seconds": 120,
+    "source": "Draf awal MathQuest (dibantu AI); belum ditelaah guru",
+    "ai_assisted": true,
+    "answer_key": {
+      "value": false
+    },
+    "explanation": "Tidak didukung. Data hanya menunjukkan bahwa membawa payung dan hujan terjadi bersamaan dalam tiga kejadian. Membawa payung tidak menyebabkan hujan, dan tiga kejadian terlalu sedikit untuk menyimpulkan keadaan besok.",
+    "hints": [
+      "Apakah membawa payung dapat membuat hujan turun?",
+      "Apakah tiga kejadian cukup untuk kesimpulan yang pasti?"
+    ],
+    "misconceptions": []
+  }
+]
